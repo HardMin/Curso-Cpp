@@ -88,6 +88,6 @@ Create a code that allow the entry to users greater 18 and minor that 30 age.
 ### He programmer
 
 >**Author: Diego Aldana.**
->**Languaje: C++.**
->**Date: 16-04-2022.**
->**Last update: 17-04-2022.**
+**Languaje: C++.**
+**Date: 16-04-2022.**
+**Last update: 17-04-2022.**
