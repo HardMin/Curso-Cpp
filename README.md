@@ -1,3 +1,10 @@
+
+
+- [Curso C++](#curso-c)
+    - [The Part 2](#the-part-2)
+    - [The Part 3](#the-part-3)
+
+
 # Curso C++
 
 Aprendiendo C++ desde 0
@@ -8,8 +15,9 @@ Acualizacion 7-04-2022
 
 This update, container the parts: [2_Part](https://github.com/HardMin/Curso-Cpp/tree/main/2_Part) and [3_Part](https://github.com/HardMin/Curso-Cpp/tree/main/3_Part).
 
+#### The Part 2
 
-##### The Part 2, contain exercise from expressions mathematic in coding **C++,** for improving learning.
+The Part 2, contain exercise from expressions mathematic in coding **C++,** for improving learning.
 
 For Example: 
 
@@ -49,8 +57,9 @@ Creating a simple calculator from the above equation
 
 The before code, solve the equation giving the necessary values.
 
+#### The Part 3 
 
-##### The 3 Part, contain exercise from conditionals.
+The Part 3, contain exercise from conditionals.
 
 Conditional statements are used through the various programming languages to instruct the computer on the decision to make when given some conditions. These decisions are made if and only if the pre-stated conditions are either true or false, depending on the functions the programmer has in mind.
 
@@ -85,9 +94,8 @@ Create a code that allow the entry to users greater 18 and minor that 30 age.
 
 
 
-### He programmer
+# Programmer
 
->**Author: Diego Aldana.**
-**Languaje: C++.**
-**Date: 16-04-2022.**
-**Last update: 17-04-2022.**
+    Author: Diego Aldana.
+    Date: 16-04-2022.
+    Last update: 17-04-2022.
