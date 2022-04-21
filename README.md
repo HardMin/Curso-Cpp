@@ -5,12 +5,12 @@
     - [The Part 3](#the-part-3)
 
 
-# Curso C++
+# Course C++
 
-Aprendiendo C++ desde 0
+Learning C++ from 0.
 
 
-Acualizacion 7-04-2022
+Before update 7-04-2022
 ------------------------
 
 This update, container the parts: [2_Part](https://github.com/HardMin/Curso-Cpp/tree/main/2_Part) and [3_Part](https://github.com/HardMin/Curso-Cpp/tree/main/3_Part).
@@ -92,7 +92,15 @@ Create a code that allow the entry to users greater 18 and minor that 30 age.
 
 ```
 
+### librarys from C++
 
+
+
+The library `<iostream>`
+
+The library `<conio.h>` contain a function `getch();` that allow that the executable as maintaining and no allow that as exit.
+
+The library `<stdlib.h>` contains a function `system("pause");` that does the same that the function `getch();` from the library `<conio.h>`. But the function `system("pause");` stays and displays a message.
 
 # Programmer
 
